@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yaarasaqib #my_nomdeplume
-- 👀 I’m interested in literature, Mathematics, Psychology and Theology
-- 🌱 I’m currently learning R and Python.
+- 👀 I’m interested in Statistics, Mathematics, Literature, Psychology and Theology
+- 🌱 I’m currently learning programming languages R, Python and C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
