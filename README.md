@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Saqib Ansari</h1>
-<h3 align="center">With a passion for statistics and data science, I am pursuing a master's degree in statistics at IIT Kanpur, one of the most prestigious institutes in India. I have also acquired multiple certifications demonstrating my versatility and eagerness to learn new skills.
-
-Alongside my studies, I worked as a Data Science Intern at Meritshot, a startup that provides expertise in data science and other related course. There, I am applying my programming skills and statistical knowledge to analyze data and create reports and dashboards. Additionally, I worked as a Video SME, creating video-based solutions for statistical problems for a diverse clientele. I have over four years of experience in teaching mathematics, science, and English to secondary school students, as well as in sales and merchandising roles. These experiences have enhanced my communication, writing, and pedagogy skills, as well as my ability to work with different audiences and stakeholders.
-
-Beyond my academic and professional pursuits, I am an ardent writer and have a keen eye for aesthetics. I enjoy exploring topics related to human psychology, comparative religion, and theology. I am always eager to seize new opportunities and embrace fresh challenges with enthusiasm and curiosity. My goal is to become a proficient and innovative data scientist who can contribute to the advancement of data-driven decision making and problem solving.</h3>
+<h3 align="center">
+MSc Statistics Student at IIT Kanpur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaarasaqib&label=Profile%20views&color=0e75b6&style=flat" alt="yaarasaqib" /> </p>
 
