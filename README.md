@@ -9,6 +9,8 @@
 - [LinkedIn](https://www.linkedin.com/in/saqib-ansari-03a1961b4/)
 - [Kaggle](https://kaggle.com/yaarasaqib)
 - [Medium](https://medium.com/@yaarasaqib)
+- [HackerRank](https://www.hackerrank.com/profile/msaqib22)
+- 
 
 ### Languages and Tools
 - Python, Pandas, Scikit-learn, Seaborn
