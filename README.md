@@ -3,7 +3,7 @@
 ## About Me
 - 🎓 MSc Statistics Student at IIT Kanpur
 - 📝 I write articles on [Medium](https://medium.com/@yaarasaqib)
-- 📧 Reach me at: msaqib22@iitk.ac.in
+- 📧 Reach me at: msaqib22@iitk.ac.in , ansarimdsaqib@gmail.com
 
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/saqib-ansari-03a1961b4/)
