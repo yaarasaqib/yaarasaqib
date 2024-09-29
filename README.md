@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm Mohammad Saqib Ansari
 
 ## About Me
-- 🎓 MSc Statistics Student at IIT Kanpur
+- 💼 Associate Data Scientist at ICICI Lombard General Insurance Company
+- 🎓 MSc in Statistics from IIT Kanpur
 - 📝 I write articles on [Medium](https://medium.com/@yaarasaqib)
 - 📧 Reach me at: msaqib22@iitk.ac.in , ansarimdsaqib@gmail.com
 
