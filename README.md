@@ -4,7 +4,7 @@
 - 💼 Associate Data Scientist at ICICI Lombard General Insurance Company
 - 🎓 MSc in Statistics from IIT Kanpur
 - 📝 I write articles on [Medium](https://medium.com/@yaarasaqib)
-- 📧 Reach me at: msaqib22@iitk.ac.in , ansarimdsaqib@gmail.com
+- 📧 Reach me at: ansarimdsaqib@gmail.com
 
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/saqib-ansari-03a1961b4/)
