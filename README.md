@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mohammad Saqib Ansari
+# Hi there! 👋 I'm  Saqib 
 
 ## About Me
 - 💼 Associate Data Scientist at ICICI Lombard General Insurance Company
